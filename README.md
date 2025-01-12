@@ -12,6 +12,13 @@
 - <b>Java</b> 
 - <b>C++</b>
 
+<h2>Data Structures</h2>
+
+- <b>LinkList</b>
+
+
+
+
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
