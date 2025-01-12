@@ -1,4 +1,4 @@
-<h1>Algorithms</h1>
+<h1>Algorithms:</h1>
 
 
 
@@ -7,20 +7,23 @@
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Utilities Used:</h2>
 
 - <b>Java</b> 
 - <b>C++</b>
 
-<h2>Data Structures</h2>
+<h2>Data Structures:</h2>
 
-- <b>LinkList</b>
+- <b>LinkedList</b>
          <br />
-       - [Student-information-system---linked-list--implementation](https://github.com/Orine99/Algorithms-Practice/tree/main/student-information-system---linked-list--implementation---java---data-structures--orine-stephenson%20(1))
+       🧩[Student-information-system---linked-list--implementation](https://github.com/Orine99/Algorithms-Practice/tree/main/student-information-system---linked-list--implementation---java---data-structures--orine-stephenson%20(1))
 
+
+<!--
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+
 
 <h2>Program walk-through:</h2>
 
@@ -30,7 +33,7 @@
       <br />
       <br />
 </p>
-
+-->
 <!--
  ```diff
 - text in red
