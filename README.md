@@ -16,7 +16,7 @@
 
 - <b>LinkList</b>
          <br />
-       - [Student-information-system---linked-list--implementation](https://github.com/joshmadakor1/Algorithms-Practice)
+       - [Student-information-system---linked-list--implementation](https://github.com/Orine99/Algorithms-Practice/tree/main/student-information-system---linked-list--implementation---java---data-structures--orine-stephenson%20(1))
 
 <h2>Environments Used </h2>
 
